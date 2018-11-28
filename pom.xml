@@ -19,6 +19,6 @@
 		</configuration>
 	  </plugin>
 	</plugins>
-	<finalName>Web</finalName>
+	<finalName>Web1</finalName>
   </build>
 </project>
